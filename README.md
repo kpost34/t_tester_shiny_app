@@ -2,7 +2,7 @@
 Shiny app that performs a t-test on two samples drawn from normal distributions.
 
 ## Summary
-This Shiny app conducts a t-test and creates a barpot of means and SEs for two samples drawn from normal distributions. The user specifies
+This Shiny app conducts a t-test and creates a barplot of means and SEs for two samples drawn from normal distributions. The user specifies
 the sample size of each sample and the mean and standard deviation of each population from which the samples are drawn. The user can then compare
 the effect of adjusting the inputs on t-test statistics (i.e., t-value, 95% CI, p-value) and the samples themselves (i.e., means, SEs). 
 
